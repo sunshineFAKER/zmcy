@@ -1,0 +1,53 @@
+.design {
+	
+	width:1200px;
+	height:220px;
+}
+.case {width:950px; height:50px;}
+.case h2 {
+	width:950px;
+	height:32px;
+	background:#2D3237;
+	color:#f00;
+	text-align:center;
+	font-weight:normal;
+	float:left;
+}
+.case-a {
+	width:437px;
+	height:10px;
+	border-bottom: 1px solid #2D3237;
+	float:left;
+}
+.case h5 {
+	width:76px;
+	height:20px;
+	text-align:center;
+	line-height:20px;
+	font-size:14px;
+	float:left;
+}
+.works {
+	width:1200px;
+	height:390px;
+}
+.case .h1 {
+	width:500px;
+	text-align:right;
+}
+.case .h2 {
+	width:450px;
+	text-align:left;
+	color:#fff;
+}
+.text {
+	width:1200px;
+	height:170px;
+	padding-top:30px;
+	text-align:center; 
+}
+
+.end {
+	width:1200px;
+	height:120px;
+}

@@ -1,0 +1,85 @@
+*{margin:0 auto;}
+.header {
+	
+	width: 970px;
+	height: 103px
+	}
+	
+.logo {
+	width: 277px;
+	height: 103px;
+	float: left;
+	background-image: url(img/logo.png);
+	background-repeat: no-repeat;
+	background-position: 20px 50px;
+}
+.user {
+	width: 337px;
+	height: 49px;
+	float: right;
+	text-align: right;
+	line-height: 49px;
+	font-weight: 800;  
+	background-image: url(img/phone.png);
+	background-repeat: no-repeat;
+	background-position: 126px center;
+}
+.nav {
+	width: 679px;
+	height: 44px;
+	margin-top: 8px;
+	float: right;
+	position: relative;
+}
+
+.nav ul {
+	list-style: none;
+}
+
+
+.nav ul li {
+	float: left;
+	padding: 0px 15px;
+	border-right: 1px solid #000;
+}
+.nav ul li.last {
+	border-right: none;
+}
+
+.nav ul li.active {
+	font-weight: 900;
+}
+.nav .line {
+	width: 60px;
+	height: 2px;
+	background-color: #000;
+	position: absolute;
+	top: 40px;
+	left: 120px;
+}
+.nav ul li a {
+	color:black;
+	text-decoration:none;
+}
+.banner {
+	width: 1200px;
+	height:400px;
+	padding-bottom:50px;
+}
+.footer {
+	width:1200px;
+	height:80px;
+	background-color:#eaeaea;
+	text-align:center;
+	font-size:12px;
+	padding: 40px 0;
+	line-height:20px;
+}
+.footer a {
+	color:#000;
+	line-height:20px;
+}
+.footer span{
+	margin:5px;
+	color:#000;
+}
